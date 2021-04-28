@@ -6,5 +6,5 @@ A simple Android project by use of Android Studio
 - After clicking the title of the news, the details of the news will be shown by fragment
 - The news can be saved in the database
 
-Here is a brief explaination of what I have done in this project.
+#### Here is a brief explaination of what I have done in this project.
 https://user-images.githubusercontent.com/66885154/116340067-830fdb00-a7ac-11eb-9968-80769d9acfa6.mp4
